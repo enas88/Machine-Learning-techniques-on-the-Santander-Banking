@@ -1,1 +1,16 @@
 
+Predicting customer behavior has become a fundamental stone in building the financial
+
+establishments; if a company can predict its client’s next step, good planes can be drawn ac-
+cording to the past knowledge. Machine Learning (ML), this powerful tool can be employed
+
+to reinforce the decision-maker planes. In this survey, we focused on running several ML
+classifiers since Santander published their dataset online to the kagglers. We had the chance
+
+to run a punch of supervised ML classifiers. The first run using All the dataset using differ-
+ent classifiers where the highest accuracy recorded using the Bagging of Naive Bayes (BNB)
+
+classifier with accuracy (92.16%) for the balanced dataset the highest accuracy achieved
+through the Naive Bayes (NB) with accuracy (80.12%) and lowest accuracy for both dataset
+got through the Decision Tree with accuracy (83.52%) and (58.09%) respectively. Specific
+results and discussions can be found through the upcoming sections.
